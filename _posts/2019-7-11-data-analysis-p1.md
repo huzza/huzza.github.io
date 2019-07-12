@@ -52,7 +52,7 @@ title: Data Analysis Action 1
 
         - Random forest
         - Gradient boost tree
-        
+
     - Neural network
     - SVM(support vector machine)
 
