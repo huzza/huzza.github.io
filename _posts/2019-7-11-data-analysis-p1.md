@@ -27,7 +27,7 @@ title: Data Analysis Action 1
 
 - Python
 - Shell/awk/sed
-- Juypter-notebook
+- Jupyter-notebook
 
 ### Modeling algorithms in Data Analysis  
 
