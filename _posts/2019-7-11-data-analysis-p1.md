@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Data Analysis] Data Analysis in Action 1
+title: Data Analysis >> Data Analysis in Action 1
 ---
 
 ## Why we need learn Data Analysis 
