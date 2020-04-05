@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tensorflow 2.0 Notes 1
+title: [Tensorflow 2.0]
 ---
 
 # Python Knowledge for Tensorflow 2.0
