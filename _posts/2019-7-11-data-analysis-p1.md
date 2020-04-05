@@ -1,17 +1,15 @@
 ---
 layout: post
-title: [Data Analysis]
+title: [Data Analysis] Data Analysis in Action 1
 ---
 
-# Data Analysis in Action 1
-
-### Why we need learn Data Analysis 
+## Why we need learn Data Analysis 
 
 - More and more data in daily life and work
 - Truth usually is hidden under large amount of data
 - Most of businesses are driven by data 
 
-### The steps to do Data Analysis 
+## The steps to do Data Analysis 
 
 - Understand and define the problem
 - Identify data source and collect sample data to know data format
@@ -25,13 +23,13 @@ title: [Data Analysis]
 - Result visualization & generate conclusion report
 
 
-### Tools for Data Analysis 
+## Tools for Data Analysis 
 
 - Python
 - Shell/awk/sed
 - Jupyter-notebook
 
-### Modeling algorithms in Data Analysis  
+## Modeling algorithms in Data Analysis  
 
 - Regression algorithms
     - linear regression 
@@ -49,7 +47,7 @@ title: [Data Analysis]
     - similar item detection 
     - personalization 
     
-### The successful way to learn Data Analysis
+## The successful way to learn Data Analysis
 
 - *Learn* : learn theory & tools
 - *Practice* : play the tools and examples  
